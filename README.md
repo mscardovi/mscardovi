@@ -86,5 +86,9 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
 ### 🎨 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mscardovi/mscardovi/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscardovi/mscardovi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mscardovi/mscardovi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/mscardovi/mscardovi/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
