@@ -9,12 +9,20 @@
 <p align="center">
   <a href="mailto:scardracs@disroot.org"><img src="https://img.shields.io/badge/Email-scardracs%40disroot.org-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="https://github.com/mscardovi"><img src="https://img.shields.io/github/followers/mscardovi?label=Followers&style=flat-square&color=2ea44f" alt="GitHub Followers"></a>
+  <img src="https://img.shields.io/badge/Commits-Verified%20GPG-00D28A?style=flat-square&logo=gnupg&logoColor=white" alt="Verified Commits">
 </p>
 
 ---
 
 ### 🚀 About Me
 I am a Italian Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for Asus laptops and performance optimization on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem, mostly in GPIO/ACPI and Asus subsystems.
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mscardovi&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="mscardovi's GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -80,6 +88,13 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
     </tr>
   </table>
 </div>
+
+---
+
+### 💬 Random Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
+</p>
 
 ---
 
