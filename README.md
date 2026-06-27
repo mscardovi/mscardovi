@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I am a Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for laptops, and package maintenance for **Gentoo Linux**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem.
+I am a Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for laptops, and optimizing performance on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem.
 
 ---
 
@@ -38,10 +38,10 @@ I am a Linux enthusiast focusing on **kernel-space development**, **hardware-spe
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌀 Gentoo Linux</h4>
+      <h4>🌀 CachyOS & Arch</h4>
       <ul>
-        <li>Active package maintainer and ebuild contributor in the official Gentoo repository.</li>
-        <li>Support for low-level system libraries integration and firmware.</li>
+        <li>Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-v3/v4).</li>
+        <li>Focus on custom kernel performance tweaks and hardware-specific optimizations.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -67,7 +67,7 @@ I am a Linux enthusiast focusing on **kernel-space development**, **hardware-spe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo">
+  <img src="https://img.shields.io/badge/CachyOS-00D28A?style=for-the-badge&logo=arch-linux&logoColor=white" alt="CachyOS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/GnuPG-003B46?style=for-the-badge&logo=gnupg&logoColor=white" alt="GnuPG">
@@ -78,9 +78,9 @@ I am a Linux enthusiast focusing on **kernel-space development**, **hardware-spe
 ### 🖥️ `$ neofetch --user mscardovi`
 
 ```ini
-                 .---.        mscardovi@gentoo-box
+                 .---.        mscardovi@cachyos
                 /     \       --------------------
-                \.@-@./       OS: Linux (Gentoo / Arch)
+                \.@-@./       OS: Linux (CachyOS / Arch)
                 /`\_/`\       Kernel: platform/x86 & gpio-driven
                //  _  \\      Shell: zsh / bash
               | \     )|_     Editor: Neovim / Nano
