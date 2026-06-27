@@ -40,9 +40,6 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E05D44" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/CachyOS-00D28A?style=for-the-badge&logo=arch-linux&logoColor=white" alt="CachyOS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
