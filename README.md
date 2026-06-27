@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I am a Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for laptops, and optimizing performance on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem.
+I am a Italian Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for Asus laptops and performance optimization on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem, mostly in GPIO/ACPI and Asus subsystems.
 
 ---
 
@@ -28,7 +28,7 @@ I am a Linux enthusiast focusing on **kernel-space development**, **hardware-spe
 * **[throttlegear](https://github.com/mscardovi/throttlegear)** — Creator of the utility to decrypt and encrypt ASUS ThrottleGear XML configurations.
 
 #### 🌀 CachyOS & Arch
-* Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-v3/v4).
+* Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-{v3,v4}/znver4).
 * Focus on custom kernel performance tweaks and hardware-specific optimizations.
 
 ---
@@ -59,8 +59,8 @@ I am a Linux enthusiast focusing on **kernel-space development**, **hardware-spe
                 /     \       --------------------
                 \.@-@./       OS: Linux (CachyOS / Arch)
                 /`\_/`\       Kernel: platform/x86 & gpio-driven
-               //  _  \\      Shell: zsh / bash
-              | \     )|_     Editor: Neovim / Nano
+               //  _  \\      Shell: fish
+              | \     )|_     Editor: Neovim / Nano / Antigravity
              /`\_`---'_/`\_   GPG Key: SSH signed commits (ED25519)
             \____\_|_/____/   Focus: Low-Level / Kernel Development
                               Status: Mapping GPIO registers...
