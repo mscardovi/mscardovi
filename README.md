@@ -1,4 +1,4 @@
-# 🖥️ Marco Scardovi (`mscardovi`)
+# 🖥️ Marco Scardovi (`scardracs`)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,30 +8,30 @@
 
 <p align="center">
   <a href="mailto:scardracs@disroot.org"><img src="https://img.shields.io/badge/Email-scardracs%40disroot.org-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/mscardovi"><img src="https://img.shields.io/github/followers/mscardovi?label=Followers&style=flat-square&color=2ea44f" alt="GitHub Followers"></a>
+  <a href="https://github.com/scardracs"><img src="https://img.shields.io/github/followers/scardracs?label=Followers&style=flat-square&color=2ea44f" alt="GitHub Followers"></a>
   <img src="https://img.shields.io/badge/Commits-Verified%20GPG-00D28A?style=flat-square&logo=gnupg&logoColor=white" alt="Verified Commits">
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a Italian Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for Asus laptops and performance optimization on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem, mostly in GPIO/ACPI and Asus subsystems.
+Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardware-specific utilities** for Asus laptops and performance optimization on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem, mostly in GPIO/ACPI and Asus subsystems.
 
 ---
 
 ### 📂 Key Projects & Contributions
 
 #### 🐧 Linux Kernel
-* Active contributions to the **GPIO** subsystem (e.g. `drivers/gpio/gpiolib.h`).
-* Development of drivers and quirks in `platform/x86` (including the `asus-armoury` driver).
+* Active contributions to the **ACPI/GPIO** subsystems.
+* Development of drivers and quirks in `asus-armoury` driver.
 * Patches for power management and power limits on ASUS ROG laptops.
 
 #### 💻 Hardware & System Tooling
 * **[asusctl](https://github.com/OpenGamingCollective/asusctl)** — Contributor to the system daemon and tools for controlling ASUS ROG laptop features on Linux.
-* **[throttlegear](https://github.com/mscardovi/throttlegear)** — Creator of the utility to decrypt and encrypt ASUS ThrottleGear XML configurations.
+* **[throttlegear](https://github.com/scardracs/throttlegear)** — Creator of the utility to decrypt and encrypt ASUS ThrottleGear XML configurations.
 
 #### 🌀 CachyOS & Arch
-* Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-{v3,v4}/znver4).
+* Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-{v3,v4} and znver4).
 * Focus on custom kernel performance tweaks and hardware-specific optimizations.
 
 ---
@@ -51,18 +51,37 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
 
 ---
 
-### 🖥️ `$ neofetch --user mscardovi`
+### 🖥️ `$ fastfetch --user scardracs`
 
 ```ini
-                 .---.        mscardovi@cachyos
-                /     \       --------------------
-                \.@-@./       OS: Linux (CachyOS / Arch)
-                /`\_/`\       Kernel: platform/x86 & gpio-driven
-               //  _  \\      Shell: fish
-              | \     )|_     Editor: Nano / Antigravity
-             /`\_`---'_/`\_   GPG Key: SSH signed commits (ED25519)
-            \____\_|_/____/   Focus: Low-Level / Kernel Development
-                              Status: Mapping GPIO registers...
+           .-------------------------:                    scardracs@G614PR
+          .+=========================.                    ----------------
+         :++===++==================-       :++-           OS: CachyOS x86_64
+        :*++====+++++=============-        .==:           Host: ROG Strix G16 G614PR_G614PR (1.0)
+       -*+++=====+***++==========:                        Kernel: Linux 7.1.1-1-cachyos-eevdf
+      =*++++========------------:                         Uptime: Since 2010
+     =*+++++=====-                     ...                Packages: A lot (pacman)
+   .+*+++++=-===:                    .=+++=:              Shell: fish 4.7.1
+  :++++=====-==:                     -*****+              Display (B160UAN07.K ): 1920x1200 @ 1.25x in 16", 165 Hz [Built-in]
+ :++========-=.                      .=+**+.              DE: KDE Plasma 6.7.1
+.+==========-.                          .                 WM: KWin (Wayland)
+ :+++++++====-                                .--==-.     WM Theme: Breeze
+  :++==========.                             :+++++++:    Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
+   .-===========.                            =*****+*+    Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+    .-===========:                           .+*****+:    Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
+      -=======++++:::::::::::::::::::::::::-:  .---:      Cursor: breeze (24px)
+       :======++++====+++******************=.             Terminal: kitty 0.47.1
+        :=====+++==========++++++++++++++*-               Terminal Font: JetBrainsMonoNF-Regular (11pt)
+         .====++==============++++++++++*-                CPU: AMD Ryzen 9 8940HX (32) @ 5.39 GHz
+          .===+==================+++++++:                 GPU 1: AMD Radeon 610M [Integrated]
+           .-=======================+++:                  GPU 2: NVIDIA GeForce RTX 5070 Ti Mobile [Discrete]
+             ..........................                   Memory: 6.09 GiB / 30.55 GiB (20%)
+                                                          Swap: 5.33 MiB / 30.54 GiB (0%)
+                                                          Disk (/): 33.34 GiB / 951.40 GiB (4%) - xfs
+                                                          Disk (/home): 295.84 GiB / 3.64 TiB (8%) - xfs
+                                                          Local IP (wlan0): Home sweet home
+                                                          Battery (R220358): 100% [AC Connected]
+                                                          Locale: it_IT.UTF-8
 ```
 
 ---
@@ -73,10 +92,10 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mscardovi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="495" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="495" height="195" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscardovi&theme=tokyonight&hide_border=true" alt="Top Languages" width="344" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scardracs&theme=tokyonight&hide_border=true" alt="Top Languages" width="344" height="195" />
       </td>
     </tr>
   </table>
@@ -94,5 +113,5 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
 ### 🎨 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mscardovi/mscardovi/output/github-contribution-grid-snake.gif" alt="github contribution grid snake" />
+  <img src="https://raw.githubusercontent.com/scardracs/scardracs/output/github-contribution-grid-snake.gif" alt="github contribution grid snake" />
 </p>
