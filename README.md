@@ -17,13 +17,6 @@
 ### 🚀 About Me
 I am a Italian Linux enthusiast focusing on **kernel-space development**, **hardware-specific utilities** for Asus laptops and performance optimization on **CachyOS**. My main goal is to make hardware run optimally on open-source systems, improve power management, and contribute back to the Linux ecosystem, mostly in GPIO/ACPI and Asus subsystems.
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mscardovi&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="mscardovi's GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 📂 Key Projects & Contributions
