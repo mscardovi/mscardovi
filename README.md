@@ -18,41 +18,18 @@ I am a Linux enthusiast focusing on **kernel-space development**, **hardware-spe
 
 ### 📂 Key Projects & Contributions
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐧 Linux Kernel Contributions</h4>
-      <ul>
-        <li>Active contributions to the <strong>GPIO</strong> subsystem (e.g. <code>drivers/gpio/gpiolib.h</code>).</li>
-        <li>Development of drivers and quirks in <code>platform/x86</code> (including the <code>asus-armoury</code> driver).</li>
-        <li>Patches for power management and power limits on ASUS ROG laptops.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Hardware & System Tooling</h4>
-      <ul>
-        <li><strong><a href="https://github.com/OpenGamingCollective/asusctl">asusctl</a></strong>: Contributor to the system daemon and tools for controlling ASUS ROG laptop features on Linux.</li>
-        <li><strong><a href="https://github.com/mscardovi/throttlegear">throttlegear</a></strong>: Creator of the utility to decrypt and encrypt ASUS ThrottleGear XML configurations.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌀 CachyOS & Arch</h4>
-      <ul>
-        <li>Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-v3/v4).</li>
-        <li>Focus on custom kernel performance tweaks and hardware-specific optimizations.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile & Embedded Linux</h4>
-      <ul>
-        <li>Contributions to <code>fwupd</code> for secure firmware updates on Linux.</li>
-        <li>Support for hardware integration on Linux-first mobile devices like the PinePhone.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🐧 Linux Kernel
+* Active contributions to the **GPIO** subsystem (e.g. `drivers/gpio/gpiolib.h`).
+* Development of drivers and quirks in `platform/x86` (including the `asus-armoury` driver).
+* Patches for power management and power limits on ASUS ROG laptops.
+
+#### 💻 Hardware & System Tooling
+* **[asusctl](https://github.com/OpenGamingCollective/asusctl)** — Contributor to the system daemon and tools for controlling ASUS ROG laptop features on Linux.
+* **[throttlegear](https://github.com/mscardovi/throttlegear)** — Creator of the utility to decrypt and encrypt ASUS ThrottleGear XML configurations.
+
+#### 🌀 CachyOS & Arch
+* Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-v3/v4).
+* Focus on custom kernel performance tweaks and hardware-specific optimizations.
 
 ---
 
