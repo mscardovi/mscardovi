@@ -1,7 +1,9 @@
 # 🖥️ Marco Scardovi (`mscardovi`)
 
 <p align="center">
-  <strong>Linux Kernel Contributor | Linux Enthusiast</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D28A&center=true&vCenter=true&width=500&lines=Linux+Kernel+Contributor;Linux+Enthusiast;Performance+Optimist;Exploring+ACPI+%26+GPIO..." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -78,3 +80,11 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
     </tr>
   </table>
 </div>
+
+---
+
+### 🎨 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mscardovi/mscardovi/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" width="100%" />
+</p>
