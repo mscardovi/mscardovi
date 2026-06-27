@@ -68,11 +68,18 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mscardovi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscardovi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=mscardovi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscardovi&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
