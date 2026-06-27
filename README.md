@@ -46,7 +46,6 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/CachyOS-00D28A?style=for-the-badge&logo=arch-linux&logoColor=white" alt="CachyOS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/GnuPG-003B46?style=for-the-badge&logo=gnupg&logoColor=white" alt="GnuPG">
 </p>
 
@@ -60,7 +59,7 @@ I am a Italian Linux enthusiast focusing on **kernel-space development**, **hard
                 \.@-@./       OS: Linux (CachyOS / Arch)
                 /`\_/`\       Kernel: platform/x86 & gpio-driven
                //  _  \\      Shell: fish
-              | \     )|_     Editor: Neovim / Nano / Antigravity
+              | \     )|_     Editor: Nano / Antigravity
              /`\_`---'_/`\_   GPG Key: SSH signed commits (ED25519)
             \____\_|_/____/   Focus: Low-Level / Kernel Development
                               Status: Mapping GPIO registers...
