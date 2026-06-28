@@ -110,6 +110,12 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ---
 
+### 🔭 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 🎨 Contribution Graph
 
 <p align="center">
