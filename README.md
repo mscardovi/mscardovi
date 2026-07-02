@@ -113,11 +113,11 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4855564196) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#1](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED/issues/1#issuecomment-4855584879) in [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED)
-3. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4852846755) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#148](https://github.com/OpenGamingCollective/asusctl/issues/148#issuecomment-4852871560) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4852861197) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4862224502) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4859952378) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4859089461) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4857870649) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4857731284) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
 
 ---
